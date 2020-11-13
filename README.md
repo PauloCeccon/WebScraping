@@ -4,5 +4,5 @@
 
 # Implementing Web Scraping with in Python with BeautifulSoup
 
-![Results](Scraping_Ingresso_Digital_Results.png)
+![Results](Img/Scraping_Ingresso_Digital_Results.png)
 
